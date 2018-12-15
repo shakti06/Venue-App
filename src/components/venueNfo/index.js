@@ -18,7 +18,7 @@ const VenueNfo = () => {
                     style={{ background: `url(${calendar})` }}
                   />
                   <div className="vn_title">Event Date & Time</div>
-                  <div className="vn_desc">30 Dec, 2018</div>
+                  <div className="vn_desc">30 Feb, 2019</div>
                 </div>
               </div>
             </div>
@@ -33,8 +33,8 @@ const VenueNfo = () => {
                     className="vn_icon"
                     style={{ background: `url(${location})` }}
                   />
-                  <div className="vn_title">Event Date & Time</div>
-                  <div className="vn_desc">30 Dec, 2018</div>
+                  <div className="vn_title">Location</div>
+                  <div className="vn_desc">Hotel Annapurna</div>
                 </div>
               </div>
             </div>
