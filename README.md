@@ -20,6 +20,10 @@ This project is simple venue app based on the venue of the musical artist and th
 
 - to run the projects
 
+> npm build
+
+- to build the project
+
 ## Resources
 
 To learn React, check out the [React documentation](https://reactjs.org/).
